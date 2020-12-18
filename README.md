@@ -1,4 +1,4 @@
-# AI-Game
+
 import random
 
 comp_wins = 0
